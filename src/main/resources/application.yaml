@@ -1,0 +1,7 @@
+# application.properties
+spring:
+  application:
+    name=UserOtpAuthenticationApplication:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/practise
